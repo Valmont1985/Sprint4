@@ -1,0 +1,5 @@
+tests/CheckIncorrectOrderTest.class
+tests/FAQTest.class
+tests/CheckLink.class
+tests/CreateNewRentalTest.class
+tests/CheckErrorMessagesFieldsTest.class
